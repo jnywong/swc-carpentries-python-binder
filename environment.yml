@@ -1,6 +1,8 @@
 name: env-swc
 channels:
   - conda-forge
+  - defaults
+  - conda-forge/label/broken
 dependencies:
   - jupyter
   - numpy
