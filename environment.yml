@@ -1,6 +1,8 @@
 name: env-swc
 channels:
   - conda-forge
+  - defaults
+  - conda-forge/label/broken
 dependencies:
   - appnope=0.1.2=py310hbe9552e_2
   - argon2-cffi=21.3.0=pyhd8ed1ab_0
