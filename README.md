@@ -1,3 +1,3 @@
-# swc-carpentries-python-binde
+# swc-carpentries-python-binder
 
 
